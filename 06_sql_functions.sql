@@ -49,7 +49,7 @@ SELECT
 	'234-903-443-2360' phone,
 	REPLACE ('234-903-443-2360', '-', '') new_phone
 
--- Replace file rxtension from txt to csv
+-- Replace file extension from txt to csv
 
 SELECT 
 	'div.txt' doc,
