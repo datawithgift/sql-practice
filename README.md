@@ -1,5 +1,7 @@
 # SQL Practice
-This repository documents my SQL learning journey and practice journey using Microsoft SQL Server.
+This repository documents my SQL learning journey and hands-on practice using Microsoft SQL Server. 
+
+It showcases how I query, retrieve, filter, manipulate, and analyze data to answer questions and extract meaningful insights from datasets.
 
 ## Topics Covered
 - SQL Query Clauses
